@@ -15,7 +15,7 @@
 </div>
 
 <p align="center">
-   Desvende o enigma do número oculto entre 1 e 10! Receba pistas a cada palpite para determinar se o<br>número é maior ou menor. Teste suas habilidades de dedução e desvende o segredo com o menor número de tentativas possível!
+   Desvende o enigma do número oculto entre 1 e 10! Receba pistas a cada palpite para determinar se o<br>número é maior ou menor. Teste suas habilidades de dedução e desvende o segredo com o menor <br>número de tentativas possível!
     <br/>
     <br/>
 </p>
