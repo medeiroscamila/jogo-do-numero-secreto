@@ -81,7 +81,7 @@ Este projeto, desenvolvido durante as aulas do programa ONE, desafia os jogadore
 <!-- USAGE EXAMPLES -->
 ## Instruções do Jogo 🕹️
 
-Para utilizar o decodificador, siga estas instruções:
+Pronto para jogar? Siga estas instruções:
 
 <ol>
     <li>Clique no <a href="https://jogo-nu-lilac.vercel.app/">link</a> para abrir a página do jogo.</li>
